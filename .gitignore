@@ -1,0 +1,7 @@
+﻿UnityMoba/Library
+UnityMoba/Temp
+UnityMoba/UserSettings
+*.vsconfig
+*.csproj
+*.sln
+UnityMoba/Logs
